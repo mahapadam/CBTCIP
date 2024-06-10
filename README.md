@@ -14,4 +14,3 @@ spam.csv: Dataset for spam detection.
 Usage
 Clone the repository.
 Ensure Python and required libraries are installed.
-Run the Python script spam_detection.py.
